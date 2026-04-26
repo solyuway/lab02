@@ -100,8 +100,10 @@ To https://github.com/solyuway/lab02.git<br>
 * de4d203 added README.md<br>
 <br>
 <br>
+
 **PART II**<br>
 <br>
+
 1. В локальной копии репозитория создайте локальную ветку patch1.<br>
 **Команда:**<br>
 `git checkout -b patch1`<br>
@@ -240,8 +242,10 @@ Fast-forward<br>
 *Deleted branch patch1 (was de1e78b).*<br>
 <br>
 <br>
+
 **PART III**<br>
 <br>
+
 1. Создайте новую локальную ветку patch2.<br>
 **Команда:**<br>
 `git checkout -b patch2`<br>
